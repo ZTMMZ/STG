@@ -1,6 +1,6 @@
-#Cocos2dx Shooting Game 
+# Cocos2dx Shooting Game 
 
-##Introduction
+## Introduction
 A simple Touhou Project Doujin STG.
 Designed for SmartPhone, only tested on Android, Game Engine using Cocos2dx 3.3.
 
